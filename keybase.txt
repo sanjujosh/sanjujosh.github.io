@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/sanju
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sanju.rocks
+  * I am sanju (https://keybase.io/sanju) on keybase.
+  * I have a public key with fingerprint FAA8 C398 2734 7539 DB4E  B981 90C9 76AF 9690 C9E5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d465952d398b293f95c5b138e27f8c49326bd18715a2d7f2c0ad1bce8df917c70a",
+      "fingerprint": "faa8c39827347539db4eb98190c976af9690c9e5",
+      "host": "keybase.io",
+      "key_id": "90c976af9690c9e5",
+      "kid": "0101d465952d398b293f95c5b138e27f8c49326bd18715a2d7f2c0ad1bce8df917c70a",
+      "uid": "3431f67b1c3a2caa558fd24fc37b0219",
+      "username": "sanju"
+    },
+    "service": {
+      "hostname": "sanju.rocks",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1543797099,
+  "expire_in": 157680000,
+  "prev": "476a5baf50a4cad595fc64b41f1a82f12aed7b0b01c50f1a6eedaae25b361cb5",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMHFUYXV5it6E8LFVsIO0UkcDusvPamdlEEYRGKxTBFaG0bu7M3KEDdGfZ
+XbasiKH2IdRoV9RCbIEEWnQTCwXaNARoAxqRQk202lLl1RRaeYbSFhCsdYbYxB/+
+9P65957vnHO/7+S6A3xUai/t5NvJpqnWzV79k6xqt6/LXoKwEu9CjCVIPlzbYAEP
+7Q5zvsgjRkSP6lGeMJAMifE4Q7MYgwsMyZEsitMQowSaIxgcM7A8SlMoCTCeEjBO
+D3iU5SDNCwxKcZQeIBpEEC250Ga1iRaHbCsAQHOyH0bhBEXiDM8SkGVolNFzDGUA
+AmNQTpCUhXslu6KQm2OBHepEScbki3mtvf/g/899F63Z4QSOCgaKRTkcYBwAJEkL
+PEYIHE6xegxlFKId2ixgH5TZdmDJK0JKNYgMOUUOKqkqY/y7rLNJXL5d1lltkkPi
+pAK5sNfhsBoVncNlVYj7IWv+x8LMihZejlAWOKHNLkoWxIjKTM4hKp4oSeAUQ+kZ
+RoPAYqtog2ZRYZCUgdbLS3kGOmVLQk6LZIFA6gFh4gAvByRwBoIlUAEFNCagGIC8
+PBOrRzlSL2MGCHkAIEayuAHlWCVhOyy0SIgRw+RGQa4ykJhrAY4iG0RK1RXeuK/K
+S60K37TVt2/ryrMw6smTTTVhqsf/zs9b+XQq9bqgx0jqUuBfuvSCTbF9ARsjvmmp
+7z0wOzDeUJXLNaafzrvbuMHUtPjOlen5hMMHJ2zNrmzTan3xxu3uG5djjj0z2zqa
+1RWY4oo4HhZ1mr/L9W8LaB4tDweDC6/M9LYXX1OHVpWrxtPO/CRmfP1rakLO2MOL
+3jcHqu3tgaZdn0T6XBlOvlf5S2+ZWiv97sfNFrou8Lff0vk9cBsLtixlLvbPTRMD
+MS8d2pde3aYK7XgtuGduYKr19c+X7rwrDDZXlez5eaJWqo9zxzp+aGp4IdjzAfNH
+yfXO4YejkSfn4itd0dHao2jXfc2f7NC2xoVwXnsxbfL+iPP7uJc/mhlZKtzTOvJm
+vFWqqfecn97/mzAyHDtkcjOreaMd3+5OXclODD5wKG6hKclG3Oq0J/VYeiZOzCR5
+lm0ZgZncUz+OrXs+vsxTs4PwzfW05Sw+ERE30VxzKlnjbCobT/H/uDzhs7CQC7G7
+CPul8zvrhHPzN64G9RVGn9P5xw1lezK8j2uvpQaNbXCt5L1xNmv1yHJdy5b6q2BH
+xuBoOZU81b8YevSR36sVurSWtvW9h6Pev1R+Rvru2L2l7SnFvdru2/5feWoPtl8+
+2x1/K6sB4uG1Pm03IxNjlk89WF8ZmFj6XOb1zujGF6s/dIeGaAqg0xyBP4quS/x0
+Z3cHHfIlmNCxmxO+qKJz+p6uOKF+bz6va+7Okb8B
+=kTZ3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sanju
+
+==================================================================
